@@ -41,4 +41,7 @@ Full Stack Developer with six years of experience developing, refactoring, maint
   <a href="https://github.com/UranusLin/BitginAssignment">
     <img style="height: 130px;" src="https://github-readme-stats.vercel.app/api/pin/?username=UranusLin&repo=BitginAssignment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
   </a>
+   <a href="https://github.com/KenLaoStudio/ZeroPass">
+    <img style="height: 130px;" src="https://github-readme-stats.vercel.app/api/pin/?username=KenLaoStudio&repo=ZeroPass&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
+  </a>
 </div>
