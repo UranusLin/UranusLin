@@ -4,7 +4,6 @@ Full-Stack developer & Blockchain developer
 -------------------------------------------  
 Full Stack Developer with six years of experience developing, refactoring, maintaining, and optimizing Blockchain servers, websites, backend servers, and API servers; proficient in Python, JAVA, Golang, Rust, VueJS, ReactJS, SQL, NoSQL, also using AWS and Google cloud, continue learning for backend knowledge and improve skills.  
 
-* 🌍  I'm based in Taiwan 
 * ✉️  You can contact me at [aka611511@gmail.com](mailto:aka611511@gmail.com)
 
 
