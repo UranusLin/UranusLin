@@ -34,6 +34,10 @@ Full Stack Developer with six years of experience developing, refactoring, maint
   <a href="https://github.com/UranusLin/GitReleaseNotiSlackBot">
     <img style="height: 130px;" src="https://github-readme-stats.vercel.app/api/pin/?username=UranusLin&repo=GitReleaseNotiSlackBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
   </a>
+   </a>
+    <a href="https://github.com/UranusLin/beta-fullstack-assignment">
+    <img style="height: 130px;" src="https://github-readme-stats.vercel.app/api/pin/?username=UranusLin&repo=beta-fullstack-assignment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
+  </a>
 </div>
 <div style="display: inline-block; width: 50% ; box-sizing: border-box; text-align: left;">
   <a href="https://github.com/UranusLin/native-camp-mock-be">
