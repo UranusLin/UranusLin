@@ -59,9 +59,6 @@ I am a Full-Stack Developer with **8+ years of experience** in building scalable
 ## 🏆 Top Repositories
 
 <div style="display: inline-block; width: 50%; box-sizing: border-box; text-align: left;">
-  <a href="https://github.com/social-tw/social-tw-website">
-    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats-ten-beta-27.vercel.app/api/pin/?username=social-tw&repo=social-tw-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
-  </a>
   <a href="https://github.com/UranusLin/notifications_design">
     <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats-ten-beta-27.vercel.app/api/pin/?username=UranusLin&repo=notifications_design&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
   </a>
@@ -79,11 +76,8 @@ I am a Full-Stack Developer with **8+ years of experience** in building scalable
   <a href="https://github.com/UranusLin/kotlin-springboot-starter">
     <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats-ten-beta-27.vercel.app/api/pin/?username=UranusLin&repo=kotlin-springboot-starter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
   </a>
-  <a href="https://github.com/makeabet-labs/create-makeabet">
-    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats-ten-beta-27.vercel.app/api/pin/?username=makeabet-labs&repo=create-makeabet&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
-  </a>
-  <a href="https://github.com/ChronosLab/chronos-share">
-    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats-ten-beta-27.vercel.app/api/pin/?username=ChronosLab&repo=chronos-share&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
+  <a href="https://github.com/UranusLin/beta-fullstack-assignment">
+    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats-ten-beta-27.vercel.app/api/pin/?username=UranusLin&repo=beta-fullstack-assignment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
   </a>
 </div>
 
