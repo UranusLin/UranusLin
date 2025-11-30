@@ -60,30 +60,30 @@ I am a Full-Stack Developer with **8+ years of experience** in building scalable
 
 <div style="display: inline-block; width: 50%; box-sizing: border-box; text-align: left;">
   <a href="https://github.com/social-tw/social-tw-website">
-    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats.vercel.app/api/pin/?username=social-tw&repo=social-tw-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
+    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats-ten-beta-27.vercel.app/api/pin/?username=social-tw&repo=social-tw-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
   </a>
   <a href="https://github.com/UranusLin/notifications_design">
-    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats.vercel.app/api/pin/?username=UranusLin&repo=notifications_design&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
+    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats-ten-beta-27.vercel.app/api/pin/?username=UranusLin&repo=notifications_design&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
   </a>
   <a href="https://github.com/UranusLin/den_den_assignment">
-    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats.vercel.app/api/pin/?username=UranusLin&repo=den_den_assignment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
+    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats-ten-beta-27.vercel.app/api/pin/?username=UranusLin&repo=den_den_assignment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
   </a>
   <a href="https://github.com/UranusLin/coffee-pos-system">
-    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats.vercel.app/api/pin/?username=UranusLin&repo=coffee-pos-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
+    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats-ten-beta-27.vercel.app/api/pin/?username=UranusLin&repo=coffee-pos-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
   </a>
 </div>
 <div style="display: inline-block; width: 50% ; box-sizing: border-box; text-align: left;">
   <a href="https://github.com/UranusLin/intent-pay">
-    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats.vercel.app/api/pin/?username=UranusLin&repo=intent-pay&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
+    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats-ten-beta-27.vercel.app/api/pin/?username=UranusLin&repo=intent-pay&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
   </a>
   <a href="https://github.com/UranusLin/kotlin-springboot-starter">
-    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats.vercel.app/api/pin/?username=UranusLin&repo=kotlin-springboot-starter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
+    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats-ten-beta-27.vercel.app/api/pin/?username=UranusLin&repo=kotlin-springboot-starter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
   </a>
   <a href="https://github.com/makeabet-labs/create-makeabet">
-    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats.vercel.app/api/pin/?username=makeabet-labs&repo=create-makeabet&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
+    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats-ten-beta-27.vercel.app/api/pin/?username=makeabet-labs&repo=create-makeabet&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
   </a>
   <a href="https://github.com/ChronosLab/chronos-share">
-    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats.vercel.app/api/pin/?username=ChronosLab&repo=chronos-share&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
+    <img style="width: 260px; height: 130px; margin-top: 2px;" src="https://github-readme-stats-ten-beta-27.vercel.app/api/pin/?username=ChronosLab&repo=chronos-share&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
   </a>
 </div>
 
@@ -121,7 +121,7 @@ I am a Full-Stack Developer with **8+ years of experience** in building scalable
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/UranusLin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UranusLin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/UranusLin" align="left"><img src="https://github-readme-stats-ten-beta-27.vercel.app/api/top-langs/?username=UranusLin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 </div>
 
 ---
