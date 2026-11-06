@@ -69,12 +69,5 @@ Instructor at **GTalent** (mentored 40+ in backend & full-stack) · hackathon ju
 
 ### 📫 Reach me
 
-[![Email](https://img.shields.io/badge/Email-aka611511@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aka611511@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-morris--lin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/morris-lin)
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UranusLin&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UranusLin&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="150"/>
-</p>
+- **Email:** aka611511@gmail.com
+- **LinkedIn:** [linkedin.com/in/morris-lin](https://linkedin.com/in/morris-lin)
